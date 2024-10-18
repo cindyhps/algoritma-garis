@@ -19,3 +19,4 @@ def midpoint(x1, y1, x2, y2):
         d += dy
 
     return points, iter_count, iter_steps
+    
